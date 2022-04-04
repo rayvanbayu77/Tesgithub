@@ -1,5 +1,7 @@
 Rencana PKL 
 
 - Menguasai Github
+  *Dasar penggunaan Github
+  *Mengerti Instilah dalam Github
 - Mendapat ilmu baru 
 - Dapat menggunakan Github
